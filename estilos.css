@@ -1,7 +1,8 @@
 body{
   background:blue;
   color: red;
-
+  padding: 10px;
+  margin: 5px;
 }
 
 P {
